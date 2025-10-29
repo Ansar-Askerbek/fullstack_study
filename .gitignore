@@ -27,5 +27,5 @@
 .idea/modules.xml
 .idea/workspace.xml
 
-/server/node_module
+/server/node_modules
 /server/package-lock.json
